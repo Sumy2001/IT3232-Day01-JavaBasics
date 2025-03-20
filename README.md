@@ -101,3 +101,14 @@ Write a Java program that creates a Student class and calculates the average mar
 
 📸 Output:
 
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ javac Q06_StudentsList.java
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ java Q06_StudentsList
+
+Average marks: 85
+
+📌 Question 07:
+
+Implement a Library System with PrintedBook, EBook, and AudioBook using inheritance, Polymorphism and encapsulation ..
+
+📸 Output:
+
