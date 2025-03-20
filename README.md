@@ -82,3 +82,22 @@ Output: 6 5 4 3 2 1 7 13 12 11 10 9 8
 
 📸 Output:
 
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ javac Q05_PrintRevLR.java
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ java Q05_PrintRevLR
+
+Enter a number: 9
+
+4 3 2 1 5 9 8 7 6 
+
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ java Q05_PrintRevLR
+
+Enter a number: 13
+
+6 5 4 3 2 1 7 13 12 11 10 9 8 
+
+📌 Question 06:
+
+Write a Java program that creates a Student class and calculates the average marks of 5 students.
+
+📸 Output:
+
