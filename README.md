@@ -57,3 +57,28 @@ Write a Java program that prints all odd numbers between 1 and 20.
 
 📸 Output:
 
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ javac Q04_PrintOdd.java
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ java Q04_PrintOdd
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+
+📌 Question 05:
+
+Write a Java program that splits numbers into two halves, and reverse them. 
+🔹 Example: 
+Input: 9 
+Output: 4 3 2 1 5 9 8 7 6 
+Input: 13 
+Output: 6 5 4 3 2 1 7 13 12 11 10 9 8
+
+📸 Output:
+
