@@ -37,3 +37,23 @@ Write a Java program that prints numbers in reverse order.
 
 📸 Output:
 
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ javac Q03_PrintRev.java
+@Sumy2001 ➜ /workspaces/IT3232-Day01-JavaBasics (main) $ java Q03_PrintRev
+
+10 
+9 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+
+📌 Question 04:
+
+Write a Java program that prints all odd numbers between 1 and 20.
+
+📸 Output:
+
